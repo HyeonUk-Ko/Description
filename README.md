@@ -15,5 +15,9 @@ Project Team Arthemis의 Description Repository 입니다.
   개발하는 것을 좋아하고 많은 것을 경험하고 싶어합니다.
   주로 Android(Kotlin) 개발과 RTOS를 이용한 HW Driver(C) 개발을 좋아합니다.
   ```
+  
+## 주의사항
+ - KanuKim97은 유령회원을 무척이나 싫어합니다! 
+ - 주기적으로 커밋기록을 확인하고 2주이상 0 commit은 퇴출할 수 있습니다!
 
 ## Arthemis Repository
